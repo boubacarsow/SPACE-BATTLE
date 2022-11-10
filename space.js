@@ -1,4 +1,4 @@
-// SPACE BATTLE CONSOLE GAME
+// SPACE BATTLE ASSIGNMENT
 
 //PSEUDO CODE
 //Make the  Game/Ship Objects
